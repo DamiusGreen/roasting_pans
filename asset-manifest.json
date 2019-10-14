@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/roasting_pans/static/css/main.6587be9e.chunk.css",
+    "main.js": "/roasting_pans/static/js/main.99b03fcd.chunk.js",
+    "main.js.map": "/roasting_pans/static/js/main.99b03fcd.chunk.js.map",
+    "runtime~main.js": "/roasting_pans/static/js/runtime~main.fa1d1e2e.js",
+    "runtime~main.js.map": "/roasting_pans/static/js/runtime~main.fa1d1e2e.js.map",
+    "static/js/2.25b1c4fe.chunk.js": "/roasting_pans/static/js/2.25b1c4fe.chunk.js",
+    "static/js/2.25b1c4fe.chunk.js.map": "/roasting_pans/static/js/2.25b1c4fe.chunk.js.map",
+    "index.html": "/roasting_pans/index.html",
+    "precache-manifest.202cd6302300237350cce7175dba9031.js": "/roasting_pans/precache-manifest.202cd6302300237350cce7175dba9031.js",
+    "service-worker.js": "/roasting_pans/service-worker.js",
+    "static/css/main.6587be9e.chunk.css.map": "/roasting_pans/static/css/main.6587be9e.chunk.css.map"
+  }
+}
